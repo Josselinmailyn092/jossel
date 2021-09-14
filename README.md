@@ -1,2 +1,1 @@
-# jossel
-Estudiar
+Hola mamá estoy aprendiendo 
